@@ -1,11 +1,12 @@
 {
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/Actions/646f103480ad85b9a8638587c497b1448472b8ad/.Modules/settings.schema.json",
   "runs-on": "ubuntu-latest",
   "MicrosoftTelemetryConnectionString": "",
   "type": "PTE",
   "shell": "pwsh",
   "UseCompilerFolder": true,
   "templateUrl": "https://github.com/businesscentralapps/tmpaTN1kR-PTE@main",
-  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/Actions/646f103480ad85b9a8638587c497b1448472b8ad/.Modules/settings.schema.json",
   "doNotPublishApps": true,
-  "gitHubRunner": "ubuntu-latest"
+  "gitHubRunner": "ubuntu-latest",
+  "templateSha": "1fe0105186391f58257cf6308830ffa564146700"
 }
